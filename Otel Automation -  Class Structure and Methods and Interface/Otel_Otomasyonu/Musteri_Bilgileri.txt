@@ -1,0 +1,6 @@
+TC Kimlik No:12345678900, Adı:Mehmet, Soyadı:Yıldırım, Cep Telefonu:0555 555 55 55, Adres:Mevlana, Otel Giriş Tarihi:10.01.2021, Otel Çıkış Tarihi:20.01.2021, Konaklanacak Süre:10, Ödenecek Tutarın Para Birimi:Dolar, Oda Numarası:1, Ödenecek Ücret:246.5753424657534, Otel Adı:Ataşehir I
+
+TC Kimlik No:12312312311, Adı:Atilla , Soyadı:Semerci, Cep Telefonu:0555 123 12 12, Adres:Zeytinburnu, Otel Giriş Tarihi:15.01.2021, Otel Çıkış Tarihi:25.01.2021, Konaklanacak Süre:10, Ödenecek Tutarın Para Birimi:Türk Lirası, Oda Numarası:2, Ödenecek Ücret:3600.0, Otel Adı:Ataşehir I
+
+TC Kimlik No:30030030099, Adı:Denizhan, Soyadı:Toprak, Cep Telefonu:0535 355 35 35, Adres:İzmir, Otel Giriş Tarihi:13.01.2021, Otel Çıkış Tarihi:25.01.2021, Konaklanacak Süre:12, Ödenecek Tutarın Para Birimi:Euro, Oda Numarası:10, Ödenecek Ücret:237.88546255506608, Otel Adı:Ataşehir I
+
